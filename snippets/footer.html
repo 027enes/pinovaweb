@@ -1,0 +1,113 @@
+<!--İletişim-->
+
+<section id="contact" class="<cms:if k_template_name='index.php'>home-header<cms:else/>page-header</cms:if>">
+    <div class="contact-row">
+        <div class="contact-left <cms:if k_template_name='index.php'>h-contact-left<cms:else/>p-contact-left</cms:if>">
+            <div class="container contact-start">
+                <div class="contact-nav">
+                    <ul>
+                        <li><a href="<cms:link masterpage='index.php' />" >ANASAYFA</a></li>
+                        <li><a href="<cms:link masterpage='about.php' />" class="active">HAKKIMIZDA</a></li>
+                        <li><a href="<cms:link masterpage='services.php' />">HİZMETLERİMİZ</a></li>
+                        <li><a href="<cms:link masterpage='references.php' />">REFERANSLARIMIZ</a></li>
+                        <li><a href="<cms:link masterpage='contact.php' />">İLETİŞİM</a></li>
+                    </ul>
+                </div>
+                <cms:pages masterpage='contact.php'>
+
+                <div class="contact-social-media">
+                    <h2 class="contact-bizi">BİZİ SOSYAL MEDYADAN <br><span class="contact-takip">takip edin</span></h2>
+                    <cms:show_repeatable 'socials'>
+                    <a href="<cms:show soclinks />" class="contact-social-icon"><i class="fa-brands fa-<cms:show socnam />"></i></a>
+                    </cms:show_repeatable>
+                </div>
+                <div class="haklar">
+                    <p>2024 Pinova Tüm Hakları Saklıdır.</p>
+                </div>
+                </cms:pages>
+
+            </div>
+        </div>
+        <cms:pages masterpage='contact.php'>
+
+        <div class="contact-right">
+            <div class="contact-right-text">
+                <h1 class="contact-right-title">Bize Ulaşın</h1>
+                <div class="tel">
+                    <a href="tel:<cms:show 'telefon' />"><cms:show telefon /></a>
+                    <cms:if 'telefonn'>
+                    <span>-</span>
+                    <a href="tel:<cms:show 'telefonn' />"><cms:show telefonn /></a>
+                    </cms:if>
+                </div>
+                <div class="contact-mailto">
+                    <a href="mailto:<cms:show email />"><cms:show email /></a>
+                </div>
+                <div class="contact-address">
+                    <a href="" id="mailto"><cms:show adres/></a>
+                </div>
+                <div id="form">
+                    <form action="">
+                        <div class="inputbox">
+                            <input type="text" required placeholder="Ad ve Soyad">
+                        </div>
+                        <div class="inputbox">
+                            <input type="tel" required placeholder="Teleon">
+                        </div>
+                        <div class="inputbox">
+                            <input type="email" required placeholder="Email">
+                        </div>
+                        <div class="inputbox">
+                            <textarea name="" id="" cols="30" rows="3" required placeholder="Mesaj"></textarea>
+                        </div>
+                        <button type="submit" class="cnt-btn">GÖNDER</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+        </cms:pages>
+    </div>
+</section>
+<!--İletişim End-->
+<!--Footer-->
+<footer>
+    <div class="container">
+        <div class="footer-row">
+            <a href="index.html"><img src="<cms:show k_site_link />assets/img/logo2.png" alt="" class="f-logo"></a>
+            <p>Site Creation & Technology by Miova</p>
+            <img src="<cms:show k_site_link />assets/img/miova.png" alt="Miova" class="miova-logo win">
+            <img src="<cms:show k_site_link />assets/img/miova-center.png" alt="Miova" class="miova-logo mob">
+        </div>
+    </div>
+</footer>
+<!--Footer End-->
+
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+<script src="<cms:show k_site_link />assets/js/main.js"></script>
+<script>
+
+
+    let lastScrollTop = 0;
+    const navbar = document.getElementById('navbar');
+
+    window.addEventListener("scroll", function() {
+        let scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+
+        // Add 'sticky' class when scrolling down
+        if (scrollTop > lastScrollTop) {
+            navbar.classList.add('sticky');
+        }
+
+        // Remove 'sticky' class only when scrolled all the way to the top
+        if (scrollTop === 0) {
+            navbar.classList.remove('sticky');
+        }
+
+        lastScrollTop = scrollTop;
+    });
+
+
+</script>
+
+</body>
+</html>

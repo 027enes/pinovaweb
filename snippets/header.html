@@ -1,0 +1,108 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>
+        <cms:set meta_title="<cms:get "meta_title" />"/>
+        <cms:if meta_title != ''>
+        <cms:get "meta_title" />
+        <cms:else />
+        <cms:get_custom_field 'title' masterpage='ayarlar.php' />
+        </cms:if>
+    </title>
+    <meta name="description" content="
+        <cms:set meta_description="<cms:get "meta_description" />"/>
+    <cms:if meta_description != ''>
+        <cms:get "meta_description" />
+        <cms:else />
+        <cms:get_custom_field 'description' masterpage='ayarlar.php' />
+    </cms:if>
+    ">
+    <meta name="keywords" content="
+        <cms:set meta_keywords="<cms:get "meta_keywords" />"/>
+    <cms:if meta_keywords != ''>
+        <cms:get "meta_keywords" />
+        <cms:else />
+        <cms:get_custom_field 'keywords' masterpage='ayarlar.php' />
+    </cms:if>
+    ">
+    <meta name="og:title" content="
+            <cms:set og_title="<cms:get "og_title" />"/>
+    <cms:if og_title != ''>
+        <cms:get "og_title" />
+        <cms:else />
+        <cms:get_custom_field 'og_title' masterpage='ayarlar.php' />
+    </cms:if>
+    ">
+    <meta name="og:description" content="
+                <cms:set og_description="<cms:get "og_description" />"/>
+    <cms:if og_description != ''>
+        <cms:get "og_description" />
+        <cms:else />
+        <cms:get_custom_field 'og_description' masterpage='ayarlar.php' />
+    </cms:if>
+    ">
+    <meta name="og:image" content="
+                <cms:set og_image="<cms:get "og_image" />"/>
+    <cms:if og_image != ''>
+        <cms:get "og_image" />
+        <cms:else />
+        <cms:get_custom_field 'og_image' masterpage='ayarlar.php' />
+    </cms:if>
+    ">
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "WebPage",
+            "name": "Örnek Kurumsal Şirketi",
+            "description": "Pinova"
+        }
+    </script>
+    <link rel="stylesheet" href="<cms:show k_site_link />assets/css/style.css">
+    <link rel="stylesheet" href="<cms:show k_site_link />assets/css/responsive.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+</head>
+<body>
+<header id="navbar" class="<cms:if k_template_name='index.php'>home-header<cms:else/>page-header</cms:if>">
+    <div class="container">
+        <nav class="header-row">
+            <a href="<cms:show k_site_link />" class="logo-content">
+                <cms:if k_template_name='index.php'>
+                    <img src="<cms:show k_site_link />assets/img/logo.png" class="logo" alt="Pinova Logo">
+                <cms:else/>
+                    <img src="<cms:show k_site_link />assets/img/logo2.png" class="logo" alt="Pinova Logo">
+                </cms:if>
+                <img src="<cms:show k_site_link />assets/img/logo2.png" class="logo logo-two" alt="Pinova Logo">
+            </a>
+            <ul class="navigation" id="navigationClick">
+                <li><a href="<cms:link masterpage='index.php' />" class="<cms:if k_template_name='index.php'>active</cms:if>" >ANASAYFA</a></li>
+                <li><a href="<cms:link masterpage='about.php' />" class="<cms:if k_template_name='about.php'>active</cms:if>">HAKKIMIZDA</a></li>
+                <li><a href="<cms:link masterpage='services.php' />" class="<cms:if k_template_name='services.php'>active</cms:if>">HİZMETLERİMİZ</a></li>
+                <li><a href="<cms:link masterpage='references.php' />" class="<cms:if k_template_name='references.php'>active</cms:if>">REFERANSLARIMIZ</a></li>
+                <li><a href="<cms:link masterpage='contact.php' />" class="<cms:if k_template_name='contact.php'>active</cms:if>">İLETİŞİM</a></li>
+            </ul>
+            <div class="header-right-content">
+                <cms:pages masterpage='contact.php'>
+                <div class="socials-content">
+                    <cms:show_repeatable 'socials'>
+                        <a href="<cms:show soclinks />" class="contact-social-icon"><i class="fa-brands fa-<cms:show socnam />"></i></a>
+                    </cms:show_repeatable>
+                </div>
+                </cms:pages>
+                <label class="hamburger">
+                    <input type="checkbox" id="hamburgerBtn">
+                    <svg viewBox="0 0 32 32" id="line">
+                        <path class="line line-top-bottom"
+                              d="M27 10 13 10C10.8 10 9 8.2 9 6 9 3.5 10.8 2 13 2 15.2 2 17 3.8 17 6L17 26C17 28.2 18.8 30 21 30 23.2 30 25 28.2 25 26 25 23.8 23.2 22 21 22L7 22"></path>
+                        <path class="line" d="M7 16 27 16"></path>
+                    </svg>
+                </label>
+            </div>
+        </nav>
+    </div>
+</header>

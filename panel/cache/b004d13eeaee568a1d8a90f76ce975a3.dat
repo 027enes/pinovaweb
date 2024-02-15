@@ -1,0 +1,890 @@
+a:2:{s:9:"mime_type";s:38:"Content-Type: text/html; charset=utf-8";s:11:"cached_html";s:45911:"<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name='description' content='Geleneksel Gaziantep lezzetlerinin en güzel örneklerini sunan Anteplove Baklava! En taze ve özenle hazırlanmış baklavalarımızla damaklarınızı şımartın.'>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Anteplove Baklava | Gaziantep&#039;ten Dünya&#039;ya | Antep Baklavası</title>							<meta name="description" content="Anteplove Baklava olarak ürünlerimizi Gaziantep&#039;ten ulusal ve uluslararası düzeyde müşterilerimize ulaştırmak için yoğun bir şekilde çalışmaktayız.">                	    <script type="application/ld+json">{"@context": "https://schema.org","@type": "WebPage","name": "Anteplove Kurumsal Şirketi","description": "Anteplove"}</script>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://www.anteplove.com/assets/css/style.css?v=1.0.0">
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js?v=1.0.0"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css?v=1.0.0" />
+	<style rel="stylesheet">.lang {color: #fff;}</style>	
+	<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GNY15W2699"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GNY15W2699');
+</script>
+	
+	<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "inyfx6f0fj");
+</script>
+	
+	<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();
+   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(94803945, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/94803945" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+	
+	<link rel="apple-touch-icon" sizes="180x180" href="https://www.anteplove.com/fav/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.anteplove.com/fav/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.anteplove.com/fav/favicon-16x16.png">
+<link rel="manifest" href="https://www.anteplove.com/fav/site.webmanifest">
+<link rel="mask-icon" href="https://www.anteplove.com/fav/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+</head>
+<body>
+	<div class="scrollTop" onclick="scrollToTop()">
+		<i class="fa-solid fa-chevron-up"></i>
+	</div>
+	    <a href="//wa.me/905355283727" target="_blank" class="wpp"><i class="fa-brands fa-whatsapp wp"></i></a>
+
+    <header id="none" class="">
+        <div class="container">
+            <nav class="webb">
+                <div class="row">
+                    <div class="logo "><a href="https://www.anteplove.com/"><img src="https://www.anteplove.com/assets/img/logo.svg" alt="" ></a></div>
+                    <ul>
+                        <li><a href="https://www.anteplove.com/tr/"  class="active">ANASAYFA</a></li>
+                        <li><a href="https://www.anteplove.com/tr/kurumsal/" >KURUMSAL</a></li>
+                        <li><a href="https://www.anteplove.com/tr/urunler/" >ÜRÜNLER</a></li>
+                        <li><a href="https://www.anteplove.com/tr/satis-noktalari/" >SATIŞ NOKTALARI</a></li>
+
+                        <li><a href="https://www.anteplove.com/tr/franchise/" >FRANCHISE</a></li>
+
+                        <li><a href="https://www.anteplove.com/tr/iletisim/" >İLETİŞİM</a></li>
+                    </ul>
+                </div>
+                <div class="row">
+                    <div class="lang">
+						<div class="row">
+							<div class="lang-icon lazy">
+								<i class="fa-solid fa-earth-americas"></i>
+							</div>
+                                                                        Türkçe                                                                                        						</div>
+                        <ul class="lang-menu">
+                                              <li><a href="https://www.anteplove.com/tr/" title="Türkçe">Türkçe</a></li>
+                                              <li><a href="https://www.anteplove.com/en/" title="English">English</a></li>
+                                              </ul>
+                      </div>
+                    </div>
+            </nav>
+        </div>
+    </header>
+    <div id="hamburger">
+        <span class="item01"></span>
+        <span class="item03"></span>
+    </div>
+
+    <!--Mobil-->
+    <div class="mobil" id="list">
+        <nav >
+            <div class="row">
+                <div class="logo"><a href="https://www.anteplove.com/"><img src="https://www.anteplove.com/assets/img/logo.svg" alt=""></a></div>
+                <ul>
+                        <li><a href="https://www.anteplove.com/tr/"  class="active">ANASAYFA</a></li>
+                        <li><a href="https://www.anteplove.com/tr/kurumsal/" >KURUMSAL</a></li>
+                        <li><a href="https://www.anteplove.com/tr/urunler/" >ÜRÜNLER</a></li>
+
+                        <li><a href="https://www.anteplove.com/tr/satis-noktalari/" >SATIŞ NOKTALARI</a></li>
+
+						<li><a href="https://www.anteplove.com/tr/franchise/" >FRANCHISE</a></li>
+
+                        <li><a href="https://www.anteplove.com/tr/iletisim/" >İLETİŞİM</a></li>
+                </ul>
+                <div class="social">
+		       <a href="https://www.instagram.com/anteplove/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+       
+                <a href="https://www.facebook.com/people/anteplove/100084427363131/?mibextid=LQQJ4d" target="_blank"><i class="fa-brands fa-facebook"></i></a> 
+        
+               <a href="https://www.youtube.com/@anteplove" target="_blank"><i class="fa-brands fa-youtube"></i></a>
+       
+               <a href="https://twitter.com/anteplove" target="_blank"><i class="fa-brands fa-twitter"></i></a>
+       
+
+
+
+                </div>
+            </div>
+            <div class="row langg">
+                <div class="icon" id="ln">
+                    <div class="lang-icon lazy">
+                        <img src="https://www.anteplove.com/assets/img/world.png" alt="tr">
+                    </div>
+                    tr 
+                </div>
+            </div>
+        </nav>
+    </div>
+    <div class="dil" id="lang">
+        <div class="lang" >
+            <ul class="lang-menu">
+                      
+                                              <li><a href="https://www.anteplove.com/tr/" title="Türkçe">tr</a></li>
+                                              <li><a href="https://www.anteplove.com/en/" title="English">en</a></li>
+                                      <div class="icon">
+                    <i class="fa-solid fa-xmark"></i>
+                </div>
+            </ul>
+
+        </div>
+    </div>
+
+
+
+<section id="banner-h">
+    <div class="bg-img lazy">
+        <img src="https://www.anteplove.com/assets/img/sag.webp" alt="">
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="bannerh-text">
+                <h4>ANTEPLOVE</h4>
+                <h2>Gaziantep’ten Dünya’ya <br /><span>açılan kapı</span></h2>
+                <p>Anteplove Baklava olarak ürünlerimizi ulusal ve uluslararası düzeyde müşterilerimize ulaştırmak için yoğun bir şekilde çalışmaktayız. Geleneksel lezzetimizi modern bir yaklaşımla birleştirerek, dünyanın dört bir yanındaki baklava severlerin damak zevkine sunmaktayız.</p>
+                <div class="btnn">
+                    <a href="https://www.anteplove.com/tr/urunler/">ÜRÜNLERİMİZİ KEŞFET</a>
+                </div>
+            </div>
+            <div class="bannerh-img">
+                <div class="spinner-wrap">
+                    <div class="spinner-item"></div>
+                    <div class="spinner-item spinner-item--2"></div>
+                    <div class="spinner-item spinner-item--3"></div>
+                    <div class="rotate">
+                        <img id="animasyonluResim" src="https://www.anteplove.com/uploads/file/anasayfa/havuctepsi.webp" alt="ANTEPLOVE">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="social respon">    
+		
+		               <a href="https://www.instagram.com/anteplove/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+       
+                <a href="https://www.facebook.com/people/anteplove/100084427363131/?mibextid=LQQJ4d" target="_blank"><i class="fa-brands fa-facebook"></i></a> 
+        
+                <a href="https://www.youtube.com/@anteplove" target="_blank"><i class="fa-brands fa-youtube"></i></a> 
+        
+               <a href="https://twitter.com/anteplove" target="_blank"><i class="fa-brands fa-twitter"></i></a>
+       
+
+
+    </div>
+    <div class="scroll-icon">
+        <span class="tekerlek"></span>
+        <p>SCROOL</p>
+    </div>
+</section >
+
+    <section id="urun" >
+            <div class="container">
+                
+
+                
+                <div class="tabss">
+                    <ul class="tabs tabs-gap">
+                                                <li class="tabs-n">BAKLAVA</li>
+                                                <li class="tabs-n">KADAYIF</li>
+                                                <li class="tabs-n">BÖREK</li>
+                                            </ul>
+                </div>
+                <div class="urun-content">
+
+                                     <div class="content">
+                        <div class="urun-text">
+                            <div class="icon-urun lazy">
+                                <img src="https://www.anteplove.com/assets/img/icon.png" alt="BAKLAVA">
+                            </div>
+                            <h2>BAKLAVA</h2>
+                            <h4>DAMAĞINIZDA İZ BIRAKACAK LEZZET</h4>
+                        </div>
+                        <div class="swiper mySwiper">
+                            <div class="swiper-wrapper">
+                                      <div class="swiper-slide">
+                                <a href="https://www.anteplove.com/tr/urunler/baklava/baklava.html">
+                                    <div class="swip-img lazy">
+                                        <img src="https://www.anteplove.com/uploads/file/yeni-urunler/baklava/1.webp" alt="Baklava" alt=">Baklava">
+                                    </div>
+                                    <div class="swip-text">
+                                        <h5>ANTEPLOVE</h5>
+                                        <h3>Baklava</h3>
+                                    </div>
+                                </a>
+                              </div>
+                          <div class="swiper-slide">
+                                <a href="https://www.anteplove.com/tr/urunler/baklava/ozel-kare-baklava.html">
+                                    <div class="swip-img lazy">
+                                        <img src="https://www.anteplove.com/uploads/file/yeni-urunler/kare-baklava/1.webp" alt="Özel Kare Baklava" alt=">Özel Kare Baklava">
+                                    </div>
+                                    <div class="swip-text">
+                                        <h5>ANTEPLOVE</h5>
+                                        <h3>Özel Kare Baklava</h3>
+                                    </div>
+                                </a>
+                              </div>
+                          <div class="swiper-slide">
+                                <a href="https://www.anteplove.com/tr/urunler/baklava/havuc-dilimi.html">
+                                    <div class="swip-img lazy">
+                                        <img src="https://www.anteplove.com/uploads/file/yeni-urunler/havuc-dilimi/1.webp" alt="Havuç Dilimi" alt=">Havuç Dilimi">
+                                    </div>
+                                    <div class="swip-text">
+                                        <h5>ANTEPLOVE</h5>
+                                        <h3>Havuç Dilimi</h3>
+                                    </div>
+                                </a>
+                              </div>
+                          <div class="swiper-slide">
+                                <a href="https://www.anteplove.com/tr/urunler/baklava/sobiyet.html">
+                                    <div class="swip-img lazy">
+                                        <img src="https://www.anteplove.com/uploads/file/yeni-urunler/kapali-sobiyet/1.webp" alt="Şöbiyet" alt=">Şöbiyet">
+                                    </div>
+                                    <div class="swip-text">
+                                        <h5>ANTEPLOVE</h5>
+                                        <h3>Şöbiyet</h3>
+                                    </div>
+                                </a>
+                              </div>
+                          <div class="swiper-slide">
+                                <a href="https://www.anteplove.com/tr/urunler/baklava/dilber-dudagi.html">
+                                    <div class="swip-img lazy">
+                                        <img src="https://www.anteplove.com/uploads/file/yeni-urunler/bohca/1.webp" alt="Dilber Dudağı" alt=">Dilber Dudağı">
+                                    </div>
+                                    <div class="swip-text">
+                                        <h5>ANTEPLOVE</h5>
+                                        <h3>Dilber Dudağı</h3>
+                                    </div>
+                                </a>
+                              </div>
+                          <div class="swiper-slide">
+                                <a href="https://www.anteplove.com/tr/urunler/baklava/durum-baklava.html">
+                                    <div class="swip-img lazy">
+                                        <img src="https://www.anteplove.com/uploads/file/yeni-urunler/durum/1.webp" alt="Dürüm Baklava" alt=">Dürüm Baklava">
+                                    </div>
+                                    <div class="swip-text">
+                                        <h5>ANTEPLOVE</h5>
+                                        <h3>Dürüm Baklava</h3>
+                                    </div>
+                                </a>
+                              </div>
+                          <div class="swiper-slide">
+                                <a href="https://www.anteplove.com/tr/urunler/baklava/kivrim-baklava.html">
+                                    <div class="swip-img lazy">
+                                        <img src="https://www.anteplove.com/uploads/file/yeni-urunler/kivrim-baklava/1.webp" alt="Kıvrım Baklava" alt=">Kıvrım Baklava">
+                                    </div>
+                                    <div class="swip-text">
+                                        <h5>ANTEPLOVE</h5>
+                                        <h3>Kıvrım Baklava</h3>
+                                    </div>
+                                </a>
+                              </div>
+                          <div class="swiper-slide">
+                                <a href="https://www.anteplove.com/tr/urunler/baklava/fistik-dolama.html">
+                                    <div class="swip-img lazy">
+                                        <img src="https://www.anteplove.com/uploads/file/yeni-urunler/fistik-dolama/1.webp" alt="Fıstık Dolama" alt=">Fıstık Dolama">
+                                    </div>
+                                    <div class="swip-text">
+                                        <h5>ANTEPLOVE</h5>
+                                        <h3>Fıstık Dolama</h3>
+                                    </div>
+                                </a>
+                              </div>
+                          <div class="swiper-slide">
+                                <a href="https://www.anteplove.com/tr/urunler/baklava/midye-baklava.html">
+                                    <div class="swip-img lazy">
+                                        <img src="https://www.anteplove.com/uploads/file/yeni-urunler/midye/1.webp" alt="Midye Baklava" alt=">Midye Baklava">
+                                    </div>
+                                    <div class="swip-text">
+                                        <h5>ANTEPLOVE</h5>
+                                        <h3>Midye Baklava</h3>
+                                    </div>
+                                </a>
+                              </div>
+                          <div class="swiper-slide">
+                                <a href="https://www.anteplove.com/tr/urunler/baklava/ozel-sobiyet.html">
+                                    <div class="swip-img lazy">
+                                        <img src="https://www.anteplove.com/uploads/file/yeni-urunler/acik-sobiyet/1.webp" alt="Özel Şöbiyet" alt=">Özel Şöbiyet">
+                                    </div>
+                                    <div class="swip-text">
+                                        <h5>ANTEPLOVE</h5>
+                                        <h3>Özel Şöbiyet</h3>
+                                    </div>
+                                </a>
+                              </div>
+                          <div class="swiper-slide">
+                                <a href="https://www.anteplove.com/tr/urunler/baklava/kus-gozu.html">
+                                    <div class="swip-img lazy">
+                                        <img src="https://www.anteplove.com/uploads/file/yeni-urunler/kus-gozu/1.webp" alt="Kuş Gözü" alt=">Kuş Gözü">
+                                    </div>
+                                    <div class="swip-text">
+                                        <h5>ANTEPLOVE</h5>
+                                        <h3>Kuş Gözü</h3>
+                                    </div>
+                                </a>
+                              </div>
+                          <div class="swiper-slide">
+                                <a href="https://www.anteplove.com/tr/urunler/baklava/cevizli-bulbul-yuvasi.html">
+                                    <div class="swip-img lazy">
+                                        <img src="https://www.anteplove.com/uploads/file/yeni-urunler/cevizli-dilber/1.webp" alt="Cevizli Bülbül Yuvası" alt=">Cevizli Bülbül Yuvası">
+                                    </div>
+                                    <div class="swip-text">
+                                        <h5>ANTEPLOVE</h5>
+                                        <h3>Cevizli Bülbül Yuvası</h3>
+                                    </div>
+                                </a>
+                              </div>
+                          <div class="swiper-slide">
+                                <a href="https://www.anteplove.com/tr/urunler/baklava/cevizli-baklava.html">
+                                    <div class="swip-img lazy">
+                                        <img src="https://www.anteplove.com/uploads/file/yeni-urunler/cevizli-baklava/1.webp" alt="Cevizli Baklava" alt=">Cevizli Baklava">
+                                    </div>
+                                    <div class="swip-text">
+                                        <h5>ANTEPLOVE</h5>
+                                        <h3>Cevizli Baklava</h3>
+                                    </div>
+                                </a>
+                              </div>
+                          <div class="swiper-slide">
+                                <a href="https://www.anteplove.com/tr/urunler/baklava/bulbul-yuvasi.html">
+                                    <div class="swip-img lazy">
+                                        <img src="https://www.anteplove.com/uploads/file/yeni-urunler/bulbul-yuvasi/1.webp" alt="Bülbül Yuvası" alt=">Bülbül Yuvası">
+                                    </div>
+                                    <div class="swip-text">
+                                        <h5>ANTEPLOVE</h5>
+                                        <h3>Bülbül Yuvası</h3>
+                                    </div>
+                                </a>
+                              </div>
+                          <div class="swiper-slide">
+                                <a href="https://www.anteplove.com/tr/urunler/baklava/fistikli-bulbul.html">
+                                    <div class="swip-img lazy">
+                                        <img src="https://www.anteplove.com/uploads/file/yeni-urunler/fistikli-bulbul/1.webp" alt="Fıstıklı Bülbül" alt=">Fıstıklı Bülbül">
+                                    </div>
+                                    <div class="swip-text">
+                                        <h5>ANTEPLOVE</h5>
+                                        <h3>Fıstıklı Bülbül</h3>
+                                    </div>
+                                </a>
+                              </div>
+                          <div class="swiper-slide">
+                                <a href="https://www.anteplove.com/tr/urunler/baklava/fistikli-siyah-midye.html">
+                                    <div class="swip-img lazy">
+                                        <img src="https://www.anteplove.com/uploads/file/yeni-urunler/siyah-midye-fistik/1.webp" alt="Fıstıklı Siyah Midye" alt=">Fıstıklı Siyah Midye">
+                                    </div>
+                                    <div class="swip-text">
+                                        <h5>ANTEPLOVE</h5>
+                                        <h3>Fıstıklı Siyah Midye</h3>
+                                    </div>
+                                </a>
+                              </div>
+                          <div class="swiper-slide">
+                                <a href="https://www.anteplove.com/tr/urunler/baklava/findikli-siyah-midye.html">
+                                    <div class="swip-img lazy">
+                                        <img src="https://www.anteplove.com/uploads/file/yeni-urunler/siyah-midye-findik/1.webp" alt="Fındıklı Siyah Midye" alt=">Fındıklı Siyah Midye">
+                                    </div>
+                                    <div class="swip-text">
+                                        <h5>ANTEPLOVE</h5>
+                                        <h3>Fındıklı Siyah Midye</h3>
+                                    </div>
+                                </a>
+                              </div>
+                          <div class="swiper-slide">
+                                <a href="https://www.anteplove.com/tr/urunler/baklava/soguk-baklava.html">
+                                    <div class="swip-img lazy">
+                                        <img src="https://www.anteplove.com/uploads/file/yeni-urunler/soguk-baklava/1.webp" alt="Soğuk Baklava" alt=">Soğuk Baklava">
+                                    </div>
+                                    <div class="swip-text">
+                                        <h5>ANTEPLOVE</h5>
+                                        <h3>Soğuk Baklava</h3>
+                                    </div>
+                                </a>
+                              </div>
+                          <div class="swiper-slide">
+                                <a href="https://www.anteplove.com/tr/urunler/baklava/yaprak-sobiyet.html">
+                                    <div class="swip-img lazy">
+                                        <img src="https://www.anteplove.com/uploads/file/yeni-urunler/yaprak-sobiyet/1.webp" alt="Yaprak Şöbiyet" alt=">Yaprak Şöbiyet">
+                                    </div>
+                                    <div class="swip-text">
+                                        <h5>ANTEPLOVE</h5>
+                                        <h3>Yaprak Şöbiyet</h3>
+                                    </div>
+                                </a>
+                              </div>
+                          <div class="swiper-slide">
+                                <a href="https://www.anteplove.com/tr/urunler/baklava/yesil-durum.html">
+                                    <div class="swip-img lazy">
+                                        <img src="https://www.anteplove.com/uploads/file/yeni-urunler/yesil-durum/1.webp" alt="Yeşil Dürüm" alt=">Yeşil Dürüm">
+                                    </div>
+                                    <div class="swip-text">
+                                        <h5>ANTEPLOVE</h5>
+                                        <h3>Yeşil Dürüm</h3>
+                                    </div>
+                                </a>
+                              </div>
+                          <div class="swiper-slide">
+                                <a href="https://www.anteplove.com/tr/urunler/baklava/iri-fistikli-sobiyet.html">
+                                    <div class="swip-img lazy">
+                                        <img src="https://www.anteplove.com/uploads/file/yeni-urunler/iri-fistikli-so%CC%88biyet/1.webp" alt="İri Fıstıklı Şöbiyet" alt=">İri Fıstıklı Şöbiyet">
+                                    </div>
+                                    <div class="swip-text">
+                                        <h5>ANTEPLOVE</h5>
+                                        <h3>İri Fıstıklı Şöbiyet</h3>
+                                    </div>
+                                </a>
+                              </div>
+                          <div class="swiper-slide">
+                                <a href="https://www.anteplove.com/tr/urunler/baklava/karisik-baklava.html">
+                                    <div class="swip-img lazy">
+                                        <img src="https://www.anteplove.com/uploads/file/yeni-urunler/karisik-baklava/1.webp" alt="Karışık Baklava" alt=">Karışık Baklava">
+                                    </div>
+                                    <div class="swip-text">
+                                        <h5>ANTEPLOVE</h5>
+                                        <h3>Karışık Baklava</h3>
+                                    </div>
+                                </a>
+                              </div>
+                          <div class="swiper-slide">
+                                <a href="https://www.anteplove.com/tr/urunler/baklava/mekik-dilim-baklava.html">
+                                    <div class="swip-img lazy">
+                                        <img src="https://www.anteplove.com/uploads/file/yeni-urunler/mekik-dilim/1.webp" alt="Mekik Dilim Baklava" alt=">Mekik Dilim Baklava">
+                                    </div>
+                                    <div class="swip-text">
+                                        <h5>ANTEPLOVE</h5>
+                                        <h3>Mekik Dilim Baklava</h3>
+                                    </div>
+                                </a>
+                              </div>
+ 
+
+                            </div>
+                            <div class="swiper-button-next" ></div>
+                            <div class="swiper-button-prev"></div>
+                        </div>
+                    </div>
+                                        <div class="content">
+                        <div class="urun-text">
+                            <div class="icon-urun lazy">
+                                <img src="https://www.anteplove.com/assets/img/icon.png" alt="KADAYIF">
+                            </div>
+                            <h2>KADAYIF</h2>
+                            <h4>DAMAĞINIZDA İZ BIRAKACAK LEZZET</h4>
+                        </div>
+                        <div class="swiper mySwiper">
+                            <div class="swiper-wrapper">
+                                      <div class="swiper-slide">
+                                <a href="https://www.anteplove.com/tr/urunler/kadayif/burma-kadayif.html">
+                                    <div class="swip-img lazy">
+                                        <img src="https://www.anteplove.com/uploads/file/yeni-urunler/burmali/1.webp" alt="Burma Kadayıf" alt=">Burma Kadayıf">
+                                    </div>
+                                    <div class="swip-text">
+                                        <h5>ANTEPLOVE</h5>
+                                        <h3>Burma Kadayıf</h3>
+                                    </div>
+                                </a>
+                              </div>
+ 
+
+                            </div>
+                            <div class="swiper-button-next" ></div>
+                            <div class="swiper-button-prev"></div>
+                        </div>
+                    </div>
+                                        <div class="content">
+                        <div class="urun-text">
+                            <div class="icon-urun lazy">
+                                <img src="https://www.anteplove.com/assets/img/icon.png" alt="BÖREK">
+                            </div>
+                            <h2>BÖREK</h2>
+                            <h4>DAMAĞINIZDA İZ BIRAKACAK LEZZET</h4>
+                        </div>
+                        <div class="swiper mySwiper">
+                            <div class="swiper-wrapper">
+                                      <div class="swiper-slide">
+                                <a href="https://www.anteplove.com/tr/urunler/borek/su-boregi.html">
+                                    <div class="swip-img lazy">
+                                        <img src="https://www.anteplove.com/uploads/file/yeni-urunler/su-borek/1.webp" alt="Su Böreği" alt=">Su Böreği">
+                                    </div>
+                                    <div class="swip-text">
+                                        <h5>ANTEPLOVE</h5>
+                                        <h3>Su Böreği</h3>
+                                    </div>
+                                </a>
+                              </div>
+ 
+
+                            </div>
+                            <div class="swiper-button-next" ></div>
+                            <div class="swiper-button-prev"></div>
+                        </div>
+                    </div>
+                    
+
+
+
+                </div>
+            </div>
+    </section>
+
+
+
+<section id="lezzet">
+    <div class="container">
+        <div class="lezzet-text">
+            <h5>ANTEPLOVE </h5>
+            <h2>LEZZET’İN YOLCULUĞU</h2>
+            <h4>DAMAĞINIZDA İZ BIRAKACAK LEZZET</h4>
+        </div>
+        <div class="web">
+            <div class="ortala">
+                <div class="circle-b">
+                    <div class="one"><span></span></div>
+                    <div class="two"><span></span></div>
+                    <div class="three"><span></span></div>
+                    <div class="four"><span></span></div>
+                    <div class="five"><span></span></div>
+                    <div class="six"><span></span></div>
+                    <div class="circle-m">
+                        <div class="circle-l">
+                            <div class="rotate lazy">
+                                <img src="https://www.anteplove.com/uploads/file/anasayfa/karebk.webp " alt="ANTEPLOVE" LEZZET’İN YOLCULUĞU>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="lezet-text">
+                <div class="lezet-h">
+                    <div class="text-lezett" id="metin1">
+                        <h3>PİŞİRİM</h3>
+                        <p>Fırında özenle pişirilir.</p>
+                    </div>
+                    <div class="text-lezetb" id="metin2">
+                        <h3>TAZELİK</h3>
+                        <p>Ürünlerimiz günlük üretilmiştir.</p>
+                    </div>
+                </div>
+                <div class="lezet-m">
+                    <div class="text-lezett" id="metin3">
+                        <h3>ŞEKER</h3>
+                        <p>Doğal pancar şekeri kullanılmıştır.</p>
+                    </div>
+                    <div class="text-lezetb" id="metin4">
+                        <h3>İNCELİK</h3>
+                        <p>0.1 mm Kalınlığında Yufka ile Yapılmıştır.</p>
+                    </div>
+                </div>
+                <div class="lezet-b">
+                    <div class="text-lezett" id="metin5">
+                        <h3>USTALIK</h3>
+                        <p>Ürünlerimiz geleneksel yöntemlerle imal edilmiştir.</p>
+                    </div>
+                    <div class="text-lezetb" id="metin6">
+                        <h3>TOPRAĞINDAN</h3>
+                        <p>Tüm malzemelerimiz kendi Yöresinden gelmektedir.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="mob">
+            <div class="ortala">
+                <div class="circle-b">
+                    <div class="one"><span></span></div>
+                    <div class="circle-m">
+                        <div class="circle-l">
+                            <div class="rotate lazy">
+                                <img src="https://www.anteplove.com/uploads/file/anasayfa/karebk.webp" alt="ANTEPLOVE LEZZET’İN YOLCULUĞU">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="lezet-text">
+                <div class="swiper mmySwiper">
+                    <div class="swiper-wrapper">
+                     
+                      <div class="swiper-slide">
+                        <div class="lezet-h">
+                            <div class="text-lezett">
+                                <h3>PİŞİRİM</h3>
+                                <p>Fırında özenle pişirilir.</p>
+                            </div>
+                        </div>
+                      </div>
+                      <div class="swiper-slide">
+                        <div class="lezet-h">
+                            <div class="text-lezett">
+                                <h3>TAZELİK</h3>
+                                <p>Ürünlerimiz günlük üretilmiştir.</p>
+                            </div>
+                        </div>
+                      </div>
+
+                      <div class="swiper-slide">
+                        <div class="lezet-h">
+                            <div class="text-lezett">
+                                <h3>ŞEKER</h3>
+                                <p>Doğal pancar şekeri kullanılmıştır.</p>
+                            </div>
+                        </div>
+                      </div>
+                      <div class="swiper-slide">
+                        <div class="lezet-h">
+                            <div class="text-lezett">
+                                <h3>İNCELİK</h3>
+                                <p>0.1 mm Kalınlığında Yufka ile Yapılmıştır.</p>
+                            </div>
+                        </div>
+                      </div>
+                      <div class="swiper-slide">
+                        <div class="lezet-h">
+                            <div class="text-lezett">
+                                <h3>USTALIK</h3>
+                                <p>Ürünlerimiz geleneksel yöntemlerle imal edilmiştir.</p>
+                            </div>
+                        </div>
+                      </div>
+                      <div class="swiper-slide">
+                        <div class="lezet-h">
+                            <div class="text-lezett">
+                                <h3>TOPRAĞINDAN</h3>
+                                <p>Tüm malzemelerimiz kendi Yöresinden gelmektedir.</p>
+                            </div>
+                        </div>
+                      </div>
+
+                    </div>
+					<div class="swiper-pagination"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="fistik lazy"><img src="https://www.anteplove.com/assets/img/fistik4.png" alt=""></div>
+    <div class="fistikk lazy"><img src="https://www.anteplove.com/assets/img/fistik3.png" alt=""></div>
+</section>
+
+
+
+<section id="satis">
+    <div class="container">
+        <div class="row">
+            <div class="dünya-img lazy">
+                <img src="https://www.anteplove.com/assets/img/dunya.webp" alt="ANTEPLOVE">
+            </div>
+            <div class="satis-text" style="background-image: url(https://www.anteplove.com/assets/img/dunyabg.webp);">
+                <div class="satis-txt">
+                    <h3>Dünyanın her yerindeyiz!</h3>
+                    <h2>Gaziantep&#039;ten Dünya&#039;ya</h2>
+                    <p>Türk baklavasını dünya çapında tanıtmak amacıyla yoğun bir şekilde çalışıyoruz. Geleneksel lezzetlerimizi modern bir yaklaşımla birleştirerek, dünya çapındaki baklava severlerin damak zevkine hitap ediyoruz.</p>
+                </div>
+                <div class="sbtnn">
+                    <a href="https://www.anteplove.com/tr/satis-noktalari/">
+                       Satış Noktalarımız                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section id="form">
+    <div class="container">
+        <div class="baklava">
+            <div class="icon lazy">
+                <img src="https://www.anteplove.com/assets/img/iconk.png" alt="ANTEPLOVE" >
+            </div>
+            <div class="baklava-t">
+                <h4><span>Baklava</span>&#039;dan</h4>
+                <h4><span>Kalbe</span> giden yol</h4>
+            </div>
+        </div>
+        <div class="form-t">
+            <div class="form-icon lazy">
+                <img src="https://www.anteplove.com/assets/img/ficon.png" alt="ANTEPLOVE">
+            </div>
+            <div class="form-text">
+                <h3>Bizimle iletişime geç</h3>
+                <p>Formu doldurun müşteri temsilcimiz sizi en kısa sürede arayıp detaylı bilgilendirmeyi yapsın.</p>
+            </div>
+        </div>
+                    <a name="kformname0"></a><form  method="post" name="kformname0" action="#kformname0" accept-charset="utf-8">
+
+	<div class="form-relative">
+		<label class="input-label" for="name">Ad-Soyad</label>
+	    <input type="text" name="name"  id="name" value=""  class="name-focus"/>	</div>
+
+	<div class="form-relative">
+		<label class="input-label" for="phone">Telefon</label>
+		    <input type="text" name="phone"  id="phone" value=""  class="name-focus" onkeypress="return event.charCode >= 48 && event.charCode <= 57 && (this.value.length === 0 || (this.value.length > 0 && this.value[0] !== '0'))" oninput="javascript: if (this.value.length === 3 || this.value.length === 7 || this.value.length === 10) this.value += '-';" maxlength="13"/>	</div>
+
+		<div class="form-relative">
+		<label class="input-label" for="email">E-Posta</label>
+		<input type="text" name="email"  id="email" value=""  class="name-focus"/>		</div>
+
+			<div class="form-relative">
+		<label class="input-label" for="message">Mesajınız</label>
+		    <input type="text" name="message"  id="message" value=""  class="name-focus"/>		</div>
+
+    
+    <button type="submit">Gönder</button>
+
+											            <input type="hidden" name="k_hid_kformname0" id="k_hid_kformname0" value="kformname0" /></form>    </div>
+</section>
+<footer>
+    <div class="container">
+        <div class="footer">
+            <div class="row">
+                <div class="harita">
+                   <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12732.15727729901!2d37.4488035!3d37.0803704!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1531e5a6fe0e1113%3A0xf8c28cdfee863a27!2sAnteplove%20Baklava!5e0!3m2!1str!2str!4v1680806610481!5m2!1str!2str" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>                </div>
+                <div class="footer-text">
+                    <div class="logo">
+                        <img src="https://www.anteplove.com/assets/img/logo.svg" alt="">
+                    </div>
+                    <div class="href">
+                    <a href="tel:+905373067622">
+                    +90 537 306 76 22                    </a>
+                    <br>
+                    <a href="mailto:info@anteplove.com">
+                    info@anteplove.com                    </a>
+                    <p>Sanayi Mah. 60444. Sk No:38 D:Blok No:1, 27110 Şehitkamil/Gaziantep</p>
+                    </div>
+                    <div class="social">
+						                        <a href="https://www.instagram.com/anteplove/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+                        		
+                                                <a href="https://www.facebook.com/people/anteplove/100084427363131/?mibextid=LQQJ4d" target="_blank"><i class="fa-brands fa-facebook"></i></a> 
+                        		
+                                                <a href="https://www.youtube.com/@anteplove" target="_blank"><i class="fa-brands fa-youtube"></i></a>
+                        
+
+                                                <a href="https://twitter.com/anteplove" target="_blank"><i class="fa-brands fa-twitter"></i></a>
+                                            </div>
+                </div>
+            </div>
+            <div class="copy">
+            <a target="_blank" href="https://miova.com.tr/" class="miova"><img src="https://www.anteplove.com/assets/img/miova.svg" alt="Miova - 360º Full Service Creative Agency"></a>
+            </div>
+        </div>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.6.3.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/manucaralmo/GlowCookies@3.1.7/src/glowCookies.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" />
+
+<script>
+    $(document).ready(function() {
+        $('.tabcontent').first().show();
+        $('.tab-select').change(function() {
+            $('.tabcontent').hide();
+            $('.sub-tabcontent').hide();
+            var target = $(this).val();
+            $('#'+target).show();
+            $('#'+target+' .sub-tabcontent').first().show();
+            
+        });
+        $('.sub-tab-select').change(function() {
+            $('.sub-tabcontent').hide();
+            var target = $(this).val();
+            $('#'+target).show();
+            
+        });
+        $('.tablinks').click(function() {
+            $('.tabcontent').hide();
+            $('.sub-tabcontent').hide();
+            var target = $(this).data('tab');
+            $('#'+target).show();
+            $('#'+target+' .sub-tabcontent').first().show();
+            
+        });
+        $('.sub-tablinks').click(function() {
+            $('.sub-tabcontent').hide();
+            var target = $(this).data('subtab');
+            $('#'+target).show();
+            
+        });
+    });
+</script>
+<script src="https://www.anteplove.com/assets/js/duzenle.js"></script>
+<script>
+
+// Sayfa yüklendiğinde ve kaydırıldığında geri dönüş butonunu göster/gizle
+window.addEventListener('scroll', function(){
+  var scroll = document.querySelector('.scrollTop');
+  scroll.classList.toggle('active', window.scrollY > 500 )
+});
+
+// Geri dönüş butonuna tıklanıldığında sayfayı yukarı kaydır
+function scrollToTop(){
+  window.scrollTo({
+    top:0,
+    behavior: 'smooth'
+  });
+}
+	
+	
+
+$(document).ready(function() {
+    $(".tabss li:first-child").trigger('click');
+    $(".tabsss li:first-child").trigger('click');
+})
+	
+	          $(document).ready(function() {
+    $('.fancybox-video').fancybox({
+      buttons: [
+        'fullScreen',
+        'close'
+      ],
+      video: {
+        vimeo: {
+          playerParameters: {
+            autopause: 0
+          }
+        }
+      }
+    });
+  });
+
+
+	
+	    // Set the options globally
+    // to make LazyLoad self-initialize
+    window.lazyLoadOptions = {
+        // Your custom settings go here
+    };
+    // Listen to the initialization event
+    // and get the instance of LazyLoad
+    window.addEventListener(
+        "LazyLoad::Initialized",
+        function (event) {
+            window.lazyLoadInstance = event.detail.instance;
+        },
+        false
+    );
+
+</script> 
+
+</body>
+</html>
+   
+";}
